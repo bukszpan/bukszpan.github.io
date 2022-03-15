@@ -1,0 +1,19 @@
+table, th, td
+				{
+				border: 3px solid black;
+				border-collapse: collapse;
+				margin-left: auto; 
+				margin-right: auto;
+				padding: 5px;
+				background-color: linen;
+				text-align: center;
+				font-family: Comic Sans MS;
+				}
+			td
+				{
+				width:50%;
+				}
+			body 
+				{
+				background-color: AntiqueWhite;
+				}
